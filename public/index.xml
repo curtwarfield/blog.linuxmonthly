@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LinuxMonthly</title>
+    <link>https://examplesite.com/</link>
+    <description>Recent content on LinuxMonthly</description>
+    <image>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Configure cron with debug logging</title>
+      <link>https://examplesite.com/posts/cron-debug/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://examplesite.com/posts/cron-debug/</guid>
+      <description>If a cron job is failing or more information is needed, how can crond be configured&amp;hellip;.</description>
+    </item>
+    
+    <item>
+      <title>Configure an anonymous FTP server</title>
+      <link>https://examplesite.com/posts/anonymous/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/posts/anonymous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cron</title>
+      <link>https://examplesite.com/cron/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/cron/</guid>
+      <description>Configure cron with debug logging</description>
+    </item>
+    
+    <item>
+      <title>FTP</title>
+      <link>https://examplesite.com/ftp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/ftp/</guid>
+      <description> Configure an anonymous FTP server  </description>
+    </item>
+    
+  </channel>
+</rss>
